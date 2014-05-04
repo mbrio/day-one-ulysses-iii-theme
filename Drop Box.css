@@ -85,10 +85,10 @@ figcaption {font-size: 0.75em;padding:0.5em 2em;margin-bottom: 2em;}
 figure img {margin-bottom: 0px;}
 
 code {font-family: Menlo, monospace; font-size:90%;}
-p > code {padding:0.2em 0.4em; background:#e1e9ed;}
+p > code {padding:0.2em 0.4em; color: #257fa0; background: #f6f6f6; border-radius: 3px; border: solid 1px #e2e2e2;}
 pre {text-align:left; overflow-x: scroll; color: #257fa0; background: #f6f6f6; padding: 10pt 15pt; border-radius: 3px; border: solid 1px #e2e2e2;}
 
-hr {border: 0px; border-top: 1px solid #ddd; border-bottom: 1px solid #fff;margin-top: 4em;margin-bottom: 2em;}
+hr {border: 0px; border-top: 1px solid #ddd; border-bottom: 1px solid #fff;margin-top: 1.5em; margin-bottom: 1.5em;}
 
 h1 + hr {margin-top: 2em;}
 
