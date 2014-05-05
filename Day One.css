@@ -77,6 +77,8 @@ dl,ol,ul,p,blockquote,pre {
 a:focus, a:hover {color:#EA4C89;text-decoration:none;}
 a {color:#47B1C7;text-decoration:none;}
 blockquote {
+    margin-left: 0;
+    margin-right: 0;
     border-left: solid .4em #ddd;
     padding-left: 10px;
     quotes: none;
@@ -87,9 +89,6 @@ em, dfn {font-style:italic;}
 del {color:#666;}
 pre {margin:1em 0;white-space:pre;}
 pre, code, tt {font:1em 'Bitstream Vera Sans Mono', Courier New, monospace;}
-
-/*code {font-size:90%;}*/
-/*pre {text-align:left; overflow-x: scroll; color: #257fa0; background: #f6f6f6; padding: 10pt 15pt; border-radius: 3px; border: solid 1px #e2e2e2;}*/
 
 pre {
     background-color: #f8f8f8;
