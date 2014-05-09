@@ -90,6 +90,9 @@ del {color:#666;}
 pre {margin:1em 0;white-space:pre;}
 pre, code, tt {font:1em 'Bitstream Vera Sans Mono', Courier New, monospace;}
 
+/*code {font-size:90%;}*/
+/*pre {text-align:left; overflow-x: scroll; color: #257fa0; background: #f6f6f6; padding: 10pt 15pt; border-radius: 3px; border: solid 1px #e2e2e2;}*/
+
 pre {
     background-color: #f8f8f8;
     border: #E8E8E8 1px solid;
@@ -112,7 +115,7 @@ code {
     color: #2c92b0;
 }
 
-p > code {
+p > code, li > code {
     color: #2c92b0;
     border: 1px solid #E8E8E8;
     font-size: .95em;
