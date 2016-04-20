@@ -18,7 +18,7 @@
 
 body {
   font-size: 12pt;
-  color:#333;
+  color:#444;
   background:#FFF;
   font-family: "Lato-Regular", "AvenirNext-Regular", -apple-system, "Helvetica Neue", Arial, Helvetica, sans-serif;
   margin: 0;
@@ -163,26 +163,25 @@ p > code, li > code {
 }
 
 ol,ul {
-    margin: .8em 1em;
-    padding-left: .8em;
+    margin: .8em 0;
+    padding-left: .4em;
 }
 
 ol li {
     margin-left: 1em;
     margin-bottom: 0;
+    margin-top: 0;
 }
 
 ul li {
     margin-left: 1em;
     margin-bottom: 0;
+    margin-top: 0;
 }
 
 ol ol,ol ul,ul ol,ul ul {
     margin: .3em 0;
 }
-
-ul {list-style-type:disc;}
-ol {list-style-type:decimal;}
 
 figure {margin: 1em 0;}
 figcaption {font-size: 0.75em;padding:0.5em 2em;margin-bottom: 2em;}
