@@ -259,13 +259,3 @@ a:target, ol#footnotes li:target, sup a:target  {
     -webkit-animation-iteration-count: 1;
     -webkit-animation-timing-function: ease-in-out;
 }
-
-a:target {border:0;outline: 0;animation-iteration-count: 1;
-    -webkit-animation-timing-function: ease-in-out;
-}
-
-a:target {border:0;outline: 0;animation-iteration-count: 1;
-    -webkit-animation-timing-function: ease-in-out;
-}
-
-a:target {border:0;outline: 0;}
