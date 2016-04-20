@@ -169,12 +169,12 @@ ol,ul {
 
 ol li {
     margin-left: 1em;
-    margin-bottom: .3em;
+    margin-bottom: 0;
 }
 
 ul li {
     margin-left: 1em;
-    margin-bottom: .3em;
+    margin-bottom: 0;
 }
 
 ol ol,ol ul,ul ol,ul ul {
